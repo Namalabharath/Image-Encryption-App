@@ -3,3 +3,6 @@ opencv-python-headless
 pandas
 numpy
 matplotlib
+scikit-image
+scipy
+sympy
